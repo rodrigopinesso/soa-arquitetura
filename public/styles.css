@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f0f0;
+}
+
+h1 {
+    margin: 20px;
+    color: #333;
+}
+
+.card {
+    background-color: white;
+    margin: 10px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 50%;
+}
+
+input, button {
+    margin: 5px;
+    padding: 5px;
+}
+
+canvas {
+    margin-top: 20px;
+}
