@@ -17,7 +17,7 @@ Este é um sistema orientado a serviços (SOA) que consome a API de nomes do IBG
 ## Funcionalidades
 
 1. Evolução do nome por década
-2. Top 3 nomes mais frequentes por localidade
+2. Top nomes mais frequentes por localidade
 3. Comparação entre dois nomes nacionalmente
 
 ## Requisitos
