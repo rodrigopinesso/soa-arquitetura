@@ -1,3 +1,6 @@
+# Alunos
+- Rodrigo Yaedu Pinesso RA: 22014201-2
+- Vitor Eiji Goto RA: 22145232-2
 # Sistema de Análise de Nomes - IBGE
 
 Este é um sistema orientado a serviços (SOA) que consome a API de nomes do IBGE para análise e comparação de nomes brasileiros.
